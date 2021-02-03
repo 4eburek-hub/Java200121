@@ -56,7 +56,7 @@ public class Program {
             if (result) {
                 System.out.println("Успешно!!");
             } else {
-                System.out.println("Безуспешно!!");
+                System.out.println("Безуспешно((");
             }
         }
     }
